@@ -2,5 +2,4 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity, Javascript, C++ and more...
 - 💞️ I’m looking to collaborate with someone who likes to create games with no engine
-- 📫 How to reach me Discord, Programmer_Barbarossa#7288
-- LOL
+- 📫 How to reach me Discord, programmer_.
